@@ -103,10 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/apq8064-common/proprietary/bin/qcks:system/bin/qcks \
     vendor/oppo/apq8064-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/oppo/apq8064-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/oppo/apq8064-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/oppo/apq8064-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/oppo/apq8064-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
-    vendor/oppo/apq8064-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/oppo/apq8064-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/oppo/apq8064-common/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/oppo/apq8064-common/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
