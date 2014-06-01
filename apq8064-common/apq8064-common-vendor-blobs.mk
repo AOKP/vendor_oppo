@@ -95,14 +95,12 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/oppo/apq8064-common/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/oppo/apq8064-common/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/oppo/apq8064-common/proprietary/bin/efsks:system/bin/efsks \
     vendor/oppo/apq8064-common/proprietary/bin/ks:system/bin/ks \
     vendor/oppo/apq8064-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/oppo/apq8064-common/proprietary/bin/nv_tee:system/bin/nv_tee \
     vendor/oppo/apq8064-common/proprietary/bin/qcks:system/bin/qcks \
     vendor/oppo/apq8064-common/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/oppo/apq8064-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/oppo/apq8064-common/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/oppo/apq8064-common/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/oppo/apq8064-common/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
