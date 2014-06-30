@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     libtime_genoff
 
 PRODUCT_PACKAGES += \
-    com.qualcomm.location \
     PPPreference \
     QuickBoot \
     qcrilmsgtunnel \
